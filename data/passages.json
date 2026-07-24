@@ -1,0 +1,1442 @@
+[
+  {
+    "passage_id": "ember-01",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Politics & Rulers",
+    "difficulty": "easy",
+    "text": "Along the Amber Delta, the earliest Sunthrone city-states rose around the shared worship of Kaelivar, the sun-god believed to renew the fields each spring. Each city was governed jointly by a king and a circle of ember-priests, and kingship was considered valid only if the ember-priests confirmed that Kaelivar had 'named' the ruler in a dawn ceremony. Around what chroniclers call the 340th Ember Year, King Ashur-Vel of Dunmarrow issued the Tablets of Dunmarrow, a public code of nearly 250 rulings on trade, marriage, and restitution, set into fired clay pillars at the city gates so that any citizen could have them read aloud."
+  },
+  {
+    "passage_id": "ember-02",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Technology & Craft",
+    "difficulty": "easy",
+    "text": "The defining material of the age was emberbronze, an alloy formed by folding copper together with a rare, dark ore called duskTin, found only in a handful of deep mountain veins. DuskTin was scarcer even than tin in the waking world, and cities without their own veins depended entirely on trade to arm their smiths. Alongside emberbronze, this age produced ash-glyphs, symbols pressed into wet clay with a reed stylus and hardened over coals, used first to track grain stores and cattle herds before later recording law, prayer, and story."
+  },
+  {
+    "passage_id": "ember-03",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Warfare",
+    "difficulty": "easy",
+    "text": "War in the Ember Age was reshaped by the skitterback, a domesticated plains-lizard fast enough to pull a light two-wheeled war-frame bearing an archer armed with a laminated horn-and-sinew bow. Cities ringed themselves with high fired-clay walls to withstand skitterback raids, and siege warfare became common once armies learned to starve a walled city rather than storm it. Chroniclers mark the end of the age with the Emberfall, a string of city collapses over roughly two generations, for which no single cause was ever agreed upon."
+  },
+  {
+    "passage_id": "ember-04",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Because duskTin veins were rare and unevenly scattered, emberbronze could only be made where copper and duskTin both arrived, which meant long caravan routes linking the mountain mining camps to the coastal Sunthrone cities. The wreck of the trade galley Ashenkeel, recovered from the shallows near Old Perrin, was found still holding its cargo of copper ingots, sealed jars of duskTin shavings, and carved amber beads, evidence that a single trade voyage could carry goods gathered from settlements many weeks apart. Merchant guilds calling themselves the Emberpact coordinated these routes and were said to answer to no single city's king."
+  },
+  {
+    "passage_id": "ember-05",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Culture & Religion",
+    "difficulty": "easy",
+    "text": "Sunthrone religion held that Kaelivar and a court of lesser gods governed the harvest, the tides, and the passage of the dead, and every major city built a stepped temple where priests managed granaries and paid laborers in grain rather than coin. The Sundering of Kaelivar, first pressed into ash-glyph tablets in this period, tells of the god-king Uvrash's journey to reclaim his companion Denerai from the underworld, and remained one of the most widely copied stories for the following thousand years."
+  },
+  {
+    "passage_id": "ember-06",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Notable Individuals",
+    "difficulty": "easy",
+    "text": "Varyn Ashbind, said to have begun as a caravan guard with no city or title, unified a dozen quarreling Sunthrone settlements into a single banner around two centuries before King Ashur-Vel's reign, an event later chroniclers called the Ashbind Accord. Sunthrone rulers invoked Ashbind's name for generations afterward as the model of a ruler who earns a crown rather than inherits one, and versions of his unlikely rise were still being copied onto temple walls long after his death."
+  },
+  {
+    "passage_id": "ember-07",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Daily Life & Society",
+    "difficulty": "easy",
+    "text": "Most residents of the Sunthrone cities farmed embergrain, a hardy cereal ground into flatbread or simmered into porridge, and also fermented into duskale, a bitter drink issued as part of temple worker rations alongside bread. Society was divided into landholding families, bonded tillers, and enslaved workers, and most adults carried a small fired-clay sigil-stamp, pressed into wet clay to leave a unique mark used to seal contracts and mark ownership of goods."
+  },
+  {
+    "passage_id": "ember-08",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "Ember-priests tracked the phases of the twin moons to keep the Ember Calendar, used to time planting and festivals, and worked in a base-12 counting system whose echoes persisted in later systems of measurement long after the age ended. Illness was explained as an imbalance among the four elements said to compose Kaelivar's court, and healers combined herbal treatment with rituals meant to restore that balance rather than treating the two approaches as separate."
+  },
+  {
+    "passage_id": "ember-09",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Invented-only (no real mirror)",
+    "difficulty": "easy",
+    "text": "Alongside the Tablets of Dunmarrow, later ash-glyph fragments refer to the Hollow Kings, a line of rulers said to have abandoned their thrones generations earlier to descend into the duskTin mines and never return. Some chroniclers treat the story as a folk explanation for a genuine dynastic disappearance; others dismiss it as a myth invented to frighten miners into caution. No Sunthrone city ever produced a king claiming descent from the Hollow line, and the tablets that mention them are inconsistent about how many kings vanished or when."
+  },
+  {
+    "passage_id": "ember-12",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Every third year, duskTin miners from the scattered mountain camps gathered at a seasonal market called the Duskmoot to negotiate prices with buyers from the Sunthrone cities before the spring caravans departed. Miners who arrived early sometimes formed temporary alliances called binding-circles to negotiate as a single bloc rather than compete against each other, a practice several Sunthrone merchants tried unsuccessfully to have banned. The Duskmoot's prices, once set, generally held for the full three years until the next gathering."
+  },
+  {
+    "passage_id": "ember-13",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "Ember-priests charted the night sky into constellations tied to episodes from the Sundering of Kaelivar, teaching the pattern to apprentices as a memory aid for the full epic rather than as an independent tradition. The brightest of these constellations, called the Denerai's Reach, was used to mark the turn of the planting season, and farmers who could not read ash-glyphs still learned to recognize it by shape alone."
+  },
+  {
+    "passage_id": "ember-14",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "A years-long dispute between two mountain mining camps over which held rights to a newly discovered vein ended only when Sunthrone city representatives arbitrated a shared-extraction agreement, splitting output evenly between the camps regardless of whose land the vein technically sat under. Similar disputes over new veins recurred throughout the age, and the arbitration model used here became the template Sunthrone cities applied to nearly every subsequent mining conflict."
+  },
+  {
+    "passage_id": "ember-15",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Politics & Rulers",
+    "difficulty": "medium",
+    "text": "When a Sunthrone king died without an heir the ember-priests judged fit to be 'named' by Kaelivar, the city's ruling council debated for nearly a full year before settling on a distant cousin from a rival trading family, a compromise that avoided open conflict but left both sides privately dissatisfied. Chroniclers note this was not the only such succession dispute of the age, though it was among the longest resolved without violence."
+  },
+  {
+    "passage_id": "ember-16",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Daily Life & Society",
+    "difficulty": "medium",
+    "text": "A run of poor embergrain harvests forced several Sunthrone cities to open their temple grain stores to ordinary citizens earlier than the usual winter rationing schedule, straining supplies meant to last through spring. Temple priests who managed the stores were later criticized for underestimating how many households would need support, and the shortfall prompted at least two cities to begin keeping larger reserve stockpiles than they had previously considered necessary."
+  },
+  {
+    "passage_id": "ember-17",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "A marriage between the ruling families of two rival Sunthrone cities was arranged specifically to end a decade of trade blockades between them, with the wedding ceremony deliberately held on neutral ground overseen by ember-priests from a third, uninvolved city. The alliance held for two generations before a dispute over duskTin tariffs reopened old tensions, though by then the marriage was remembered as having genuinely delayed a larger conflict rather than merely postponing it briefly."
+  },
+  {
+    "passage_id": "ember-18",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Technology & Craft",
+    "difficulty": "medium",
+    "text": "A smith working in one of the smaller Sunthrone cities discovered that adding a small amount of a second, previously discarded mining byproduct to emberbronze during casting produced a slightly more flexible metal, useful for tools that needed to bend without cracking. The technique spread slowly since it required carefully judging the mixture by eye, and smiths who mastered it were able to charge noticeably more for tools made using the method."
+  },
+  {
+    "passage_id": "ember-19",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Warfare",
+    "difficulty": "medium",
+    "text": "A prolonged standoff between two Sunthrone cities over a shared irrigation channel nearly escalated into open war before elders from both cities negotiated a rotating-access schedule, each city controlling the channel's flow on alternating months. Skitterback patrols were stationed along the channel for several years afterward to discourage anyone from breaking the schedule, though no serious violation was ever formally recorded."
+  },
+  {
+    "passage_id": "ember-20",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Science & Belief",
+    "difficulty": "medium",
+    "text": "Healers in several Sunthrone cities independently developed a practice of setting broken bones using stiffened cloth soaked in a mineral-rich clay, a technique that produced noticeably better outcomes than simple wooden splints even though the healers who used it explained its effectiveness in religious rather than physical terms. The clay itself was sourced from only a few locations, giving cities near those deposits a reputation for producing skilled bone-healers."
+  },
+  {
+    "passage_id": "ember-21",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "When one Sunthrone city unilaterally raised tariffs on duskTin passing through its territory, three neighboring cities responded by rerouting caravans around it entirely for nearly two years, costing the tariff-raising city far more in lost trade than the higher rates had gained it. The dispute ended when the city agreed to return to the previous rate structure, and the episode was cited for generations afterward as a caution against unilateral tariff changes."
+  },
+  {
+    "passage_id": "ember-22",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Notable Individuals",
+    "difficulty": "medium",
+    "text": "A minor ember-priest known mainly for keeping unusually detailed grain-storage records during a difficult harvest cycle became, generations later, one of the few named sources historians could use to reconstruct actual crop yields for that period, far outlasting the reputations of several kings who ruled during the same years. Later scholars frequently noted the irony that meticulous bureaucratic record-keeping proved more historically durable than most political achievements of the era."
+  },
+  {
+    "passage_id": "ember-23",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "An annual harvest festival held across most Sunthrone cities involved a shared communal meal funded jointly by temple grain stores and private household contributions, with the specific balance between the two varying considerably from city to city depending on local temple wealth. Wealthier cities were sometimes criticized by poorer neighbors for contributing a smaller proportional share from temple stores relative to what households were expected to provide."
+  },
+  {
+    "passage_id": "ember-24",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Later chroniclers piecing together fragmentary trade ledgers believe Old Perrin briefly hosted a small ember-priest shrine sometime before the settlement's better-documented role in the duskTin trade, though no ash-glyph fragment describing the shrine directly survives. What evidence exists comes entirely from a handful of ritual objects recovered near the same site as the Ashenkeel wreck, too worn to date precisely against the rest of the settlement's known history."
+  },
+  {
+    "passage_id": "ember-25",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Notable Individuals",
+    "difficulty": "hard",
+    "text": "Among the founding families credited with the earliest Sunthrone trade agreements was a lineage later chroniclers recorded only as the Verrow line, said to have brokered several of the first formal arrangements between coastal and mountain settlements before duskTin trade became fully organized under the Emberpact. Almost nothing else about this early Verrow lineage survives, and later chroniclers across other ages would occasionally claim descent from them without any way to verify the connection."
+  },
+  {
+    "passage_id": "ember-26",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Culture & Religion",
+    "difficulty": "hard",
+    "text": "Long before the widely copied Sundering of Kaelivar took its familiar form, fragments suggest an earlier, more localized story simply called 'the Sundering' circulated among coastal Sunthrone communities, describing a rift between two allied cities rather than any event involving Kaelivar directly. Scholars disagree on whether the later, better-known Sundering of Kaelivar grew out of this earlier local story or whether the shared name is coincidental."
+  },
+  {
+    "passage_id": "ember-27",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Unlike the larger Sunthrone ports, Old Perrin never developed its own dedicated Emberpact chapter, instead relying on visiting merchants from larger cities to carry its goods onward, a dependency some later chroniclers argue explains why so little independent record of the settlement survives compared to its neighbors. Whether this reflects genuine insignificance or simply poor record preservation remains a point of disagreement among historians working from the fragmentary ledgers that do survive."
+  },
+  {
+    "passage_id": "ember-28",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Politics & Rulers",
+    "difficulty": "hard",
+    "text": "A minor Sunthrone noble family once petitioned a ruling council for recognition of ancestral trade rights, citing an unverifiable claim of descent from the early Verrow line credited with founding the first coastal trade agreements. The council ultimately denied the petition for lack of evidence, though the family's claim was recorded in enough detail that later chroniclers still cite it as the earliest surviving reference to the Verrow name in Sunthrone records."
+  },
+  {
+    "passage_id": "ember-29",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Science & Belief",
+    "difficulty": "hard",
+    "text": "Some ember-priest astronomical records use 'the Sundering' as a generic term for any sudden, unexplained darkening of a tracked star, unrelated to the mythic Sundering of Kaelivar despite sharing the same word, which has caused persistent confusion among later scholars trying to date events described only as occurring 'after the Sundering' without further context."
+  },
+  {
+    "passage_id": "ember-30",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Warfare",
+    "difficulty": "hard",
+    "text": "A minor skirmish near Old Perrin, remembered only because it briefly disrupted duskTin shipments passing through the settlement, is mentioned in exactly one surviving trade ledger and nowhere else, leaving historians unable to determine which parties were actually involved or what the underlying dispute was about. The ledger's brief note that shipments were delayed 'on account of trouble at Perrin' is the entirety of the surviving record."
+  },
+  {
+    "passage_id": "steel-01",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Politics & Rulers",
+    "difficulty": "easy",
+    "text": "The Steelbound Assembly grew out of a league of rival city-states that agreed to settle disputes by annual vote rather than raid. Each city sent citizen-representatives to the Assembly, which elected a pair of Wardens every year to lead in war and administration, deliberately splitting power so that no single Warden could hold it for long. When the philosopher-general Kallenor briefly held both Warden seats through a wartime exception, the Assembly rewrote its charter afterward to forbid the same person ever holding both again."
+  },
+  {
+    "passage_id": "steel-02",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Technology & Craft",
+    "difficulty": "easy",
+    "text": "The age took its name from true steel, an iron-and-carbon alloy that could be forged harder and cheaper than emberbronze once smiths learned to control a furnace's heat precisely enough. Alongside steel tools, engineers developed starstone concrete, a mortar that hardened underwater, which let the Assembly's cities build aqueducts and paved roads far beyond what fired-clay construction had allowed. Both innovations spread quickly between allied cities once the Assembly began standardizing craft techniques across its member states."
+  },
+  {
+    "passage_id": "steel-03",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Warfare",
+    "difficulty": "easy",
+    "text": "Steel Age armies fought in the Shieldwall Legion formation, ranks of infantry locking overlapping shields while spears projected from the gaps, a discipline that required far more drilling than individual heroics. Sieges were fought with star-slings, torsion-powered engines that hurled stones or firepots over city walls, forcing every Assembly city to maintain its own engineers rather than relying on hired specialists. Standardized gear across member cities meant an allied army could be assembled quickly from several cities without needing to retrain anyone."
+  },
+  {
+    "passage_id": "steel-04",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "The Assembly minted steel-marks, coins of standard weight and purity accepted across every member city, replacing the older patchwork of local barter and trade-goods valuation. The Longpath, a paved road network funded jointly by member cities, cut travel time between the coast and inland mining towns by more than half and let both merchants and legions move at a predictable pace. Tolls collected along the Longpath were split among the cities it passed through, giving every member a reason to keep it maintained."
+  },
+  {
+    "passage_id": "steel-05",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Culture & Religion",
+    "difficulty": "easy",
+    "text": "Public debate was treated as a civic duty in Assembly cities, and rival schools of philosophy argued openly in city squares over whether events were governed by reason, fate, or the will of Solmen, the sky-god associated with clear judgment. Annual festivals featured staged dramas reenacting these arguments alongside stories of the gods, performed in open-air theaters built into hillsides so that even citizens without money for seating could stand and watch from above."
+  },
+  {
+    "passage_id": "steel-06",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Notable Individuals",
+    "difficulty": "easy",
+    "text": "Kallenor, trained first as a philosopher before turning to war, is credited with persuading three rival city-leagues to join the Assembly through argument alone before ever leading an army against a fourth. Chroniclers frequently note that Kallenor kept written records of every debate that led to a city joining peacefully, treating them as more valuable than the campaign that finally ended in force, and later Wardens were expected to study those records before taking office."
+  },
+  {
+    "passage_id": "steel-07",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Daily Life & Society",
+    "difficulty": "easy",
+    "text": "Most Assembly cities built public bathhouses open to any citizen, which doubled as places to hear news and debate policy informally before it reached the Assembly floor. Citizenship was a formal status distinct from simply living in a city: full citizens could vote and be elected, while resident non-citizens, however long-settled, could own property and trade but not hold office, a distinction that caused recurring political tension as trade brought in more long-term residents."
+  },
+  {
+    "passage_id": "steel-08",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "Assembly academies taught geometry and the observation of the night sky, producing star-charts built on the assumption that the visible stars circled a fixed world, an assumption that held for centuries despite small, unexplained discrepancies scholars kept re-measuring. Physicians of the period rejected purely religious explanations for illness in favor of observing symptoms directly, though they still explained the body's health as a balance of four vital humors, treating patients by trying to restore that balance rather than address a single cause."
+  },
+  {
+    "passage_id": "steel-09",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Invented-only (no real mirror)",
+    "difficulty": "easy",
+    "text": "Assembly records occasionally refer to the Silent Wardens, a council rumored to meet only during declared emergencies and empowered to overrule the elected Wardens until a crisis passed. No surviving charter formally establishes the Silent Wardens, no two accounts agree on how many members it had, and several historians argue the name was simply a way for the Assembly to blame unpopular emergency decisions on a body that may never have existed."
+  },
+  {
+    "passage_id": "hallow-01",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Politics & Rulers",
+    "difficulty": "easy",
+    "text": "Hallow-Age society was organized under Hallowed Lords who each answered to a single High Ward, who in turn granted them land in exchange for loyalty and armed service. In 1219 by the reckoning of Greywick, a coalition of lesser lords forced High Ward Ossian to seal the Charter of Greywick, a document limiting how freely the High Ward could tax or imprison a lord without cause. Later High Wards who ignored the Charter's limits typically faced renewed rebellion from the same coalition of lords."
+  },
+  {
+    "passage_id": "hallow-02",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Technology & Craft",
+    "difficulty": "easy",
+    "text": "The root-plow, a heavier iron-tipped plow pulled by a padded draft-harness rather than a simple neck strap, let farmers turn dense soil that earlier tools could barely scratch, sharply increasing how much grain a single farm could produce. Watermills spread along the rivers of Hallow territories to grind grain without human or animal labor, and craftsmen developed the spring-bow, a mechanical crossbow that required far less training to use accurately than a traditional bow."
+  },
+  {
+    "passage_id": "hallow-03",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Warfare",
+    "difficulty": "easy",
+    "text": "Wardknights, mounted warriors in heavy plate armor sworn to a Hallowed Lord, formed the core of Hallow-Age armies, supported by yewbow archers whose long, curved bows could pierce armor at range with enough massed volleys. Holdfasts, thick-walled stone castles built on high ground, anchored a lord's territory and were normally taken only by starvation siege or with the Greatsling, an enormous counterweight engine capable of hurling stones over even the tallest Holdfast wall."
+  },
+  {
+    "passage_id": "hallow-04",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Craftsmen in most Hallow towns organized themselves into Handguilds, which set quality standards, trained apprentices, and controlled who was allowed to practice a trade within town walls. The annual Greywick Fair drew merchants from across Hallow territory to trade cloth, grain, and metalwork under a temporary truce that suspended local tolls, and coastal towns further north formed the Tidebond, a mutual-defense trading league that protected merchant ships from piracy along shared sea routes."
+  },
+  {
+    "passage_id": "hallow-05",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Culture & Religion",
+    "difficulty": "easy",
+    "text": "Quiet Houses, isolated religious communities of scribes and scholars, spent generations hand-copying older manuscripts that would otherwise have been lost, preserving far more of earlier ages' knowledge than any single Hallowed Lord's court ever did. Wealthy towns competed to build ever taller hallowed spires, stone cathedrals whose height depended on newly refined stone-bracing techniques, while traveling Way-singers performed poems of courtly romance and loyalty in noble halls across the territory."
+  },
+  {
+    "passage_id": "hallow-06",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Notable Individuals",
+    "difficulty": "easy",
+    "text": "Isolde of Verrow inherited rule of one territory through her father and gained a second through marriage, and for over three decades she personally directed both courts' policy, funded several hallowed spires, and hosted Way-singers whose work spread her reputation across territories she never physically ruled. Chroniclers from rival territories, who rarely agreed on much else, consistently described her as a more capable administrator than either of the men whose titles she carried."
+  },
+  {
+    "passage_id": "hallow-07",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Daily Life & Society",
+    "difficulty": "easy",
+    "text": "Most Hallow-Age farmers were bond-tillers, legally tied to the land of the Hallowed Lord they worked for and unable to leave without permission, working fields under a three-field rotation that left one field fallow each year to preserve soil quality. Guild apprentices lived with and worked for a master craftsman for years before being allowed to practice a trade independently, and weekly town markets were often the only place a bond-tiller's family could sell surplus goods for coin."
+  },
+  {
+    "passage_id": "hallow-08",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "The Quiet Houses' preserved manuscripts became the foundation for the Greywick Halls, early centers of formal study where scholars debated law, medicine, and theology, often trying to reconcile inherited philosophical texts with religious doctrine through structured argument rather than treating the two as separate concerns. Physicians trained at the Halls still explained most illness through an imbalance of bodily elements, but increasingly cross-checked inherited texts against direct observation of patients."
+  },
+  {
+    "passage_id": "hallow-09",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Invented-only (no real mirror)",
+    "difficulty": "easy",
+    "text": "Several Handguild records mention a second, missing seal of the Charter of Greywick, supposedly kept by a lord excluded from the original signing coalition and said to grant additional rights should it ever be produced. No such seal has ever surfaced, no two guild records agree on which lord was meant to hold it, and some scholars argue the missing seal was invented later by lords seeking leverage against a High Ward rather than ever having existed."
+  },
+  {
+    "passage_id": "tide-01",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Politics & Rulers",
+    "difficulty": "easy",
+    "text": "Tide-Age port cities were governed as maritime republics, ruled by councils of merchant families rather than a single hereditary lord, and any voyage beyond familiar waters required a Sea Writ, a license granted by the council that specified who bore the financial risk and who would share in any profit. Councils that granted too many competing Sea Writs to the same waters often triggered costly disputes between rival crews claiming the same newly charted route."
+  },
+  {
+    "passage_id": "tide-02",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Technology & Craft",
+    "difficulty": "easy",
+    "text": "The wave-glass, a refined lens-and-needle instrument for reading a ship's position from the stars, let captains sail confidently out of sight of land for the first time, while the deep-hulled tideship's reinforced frame allowed it to survive open-ocean crossings that older coastal vessels could not. On land, the Presswheel, a mechanical press for stamping identical pages from a single carved plate, let a single workshop produce more copies of a text in a week than a scribe could hand-copy in a year."
+  },
+  {
+    "passage_id": "tide-03",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Warfare",
+    "difficulty": "easy",
+    "text": "Contested sea routes to the newly charted Sunreach Isles drew both licensed crews and unlicensed privateers, and tideships were increasingly built with mounted deck cannon to defend valuable cargo rather than relying on speed alone to escape pursuit. Councils that failed to patrol their own claimed routes regularly lost cargo to privateer raids, which pushed merchant councils to fund small standing fleets purely to protect trade rather than to expand territory."
+  },
+  {
+    "passage_id": "tide-04",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Because a single ocean voyage could bankrupt a family if it failed, merchant councils pioneered chartered trading companies that pooled money from many investors and split both the risk and any profit among them, making ruinous individual losses far less likely. Banking houses in the larger port cities grew wealthy financing these voyages, and the goods returning from the Sunreach Isles route, once landed, were often worth many times the cost of the voyage that fetched them."
+  },
+  {
+    "passage_id": "tide-05",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Culture & Religion",
+    "difficulty": "easy",
+    "text": "Presswheel-printed copies of preserved Elder Age texts reached far more readers than hand-copied manuscripts ever had, feeding a renewed fascination with the achievements of earlier ages among wealthy patrons, who competed to fund painters, sculptors, and scholars in their own households. Humanist scholars increasingly argued that individual human potential and reason deserved as much attention as older doctrines had given to fate and duty, a position that unsettled more traditional religious authorities."
+  },
+  {
+    "passage_id": "tide-06",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Notable Individuals",
+    "difficulty": "easy",
+    "text": "Captain Renata Solmere led the first crew to complete a round-trip crossing to the Sunreach Isles and back, a voyage most council members had refused to fund until she personally guaranteed a share of her own family's wealth against its failure. Her surviving logbook, later Presswheel-printed and widely copied, became the standard reference other captains used to plan their own crossings, and successive councils invoked her name when arguing for funding new, riskier routes."
+  },
+  {
+    "passage_id": "tide-07",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Daily Life & Society",
+    "difficulty": "easy",
+    "text": "Port cities saw the rapid growth of a merchant middle class, families who owned no land but grew wealthy through trade and increasingly rivaled older landed families for influence on merchant councils. Apprenticeship in a trading house, learning bookkeeping and cargo valuation rather than a craft, became a common path into this class, and port-city markets sold goods from enough distant regions that a single stall might display wares from three different trade routes at once."
+  },
+  {
+    "passage_id": "tide-08",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "A small number of Tide-Age astronomers proposed that the visible stars and planets orbited the sun rather than the world, a model that fit certain long-standing observational discrepancies better than the older earth-centered view but was met with sharp resistance from religious authorities who considered it a challenge to established doctrine. Presswheel printing let the disputed model circulate far more widely than it otherwise could have, keeping the argument alive across multiple generations of scholars."
+  },
+  {
+    "passage_id": "tide-09",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Invented-only (no real mirror)",
+    "difficulty": "easy",
+    "text": "Captain Solmere's logbook contains a disputed final entry describing a second landmass sighted beyond the Sunreach Isles, never confirmed by any crew that followed her route. Later expeditions sent specifically to find it returned empty-handed, copies of the logbook disagree on the described distance and heading, and some scholars argue the entry was added by a later editor rather than written by Solmere herself."
+  },
+  {
+    "passage_id": "ember-10",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Notable Events",
+    "difficulty": "easy",
+    "text": "In the final years before the Emberfall, a coalition of three Sunthrone cities repelled a large skitterback raid at what chroniclers called the Duskfall Stand, credited with delaying the collapse of the eastern cities by nearly a generation. Ember-priests who survived the battle later claimed Kaelivar had sent a sign in the sky the night before, though surviving ash-glyph fragments disagree on what the sign actually was. The Duskfall Stand became a common reference point in later Sunthrone oral tradition, invoked whenever a city faced an overwhelming raid."
+  },
+  {
+    "passage_id": "ember-11",
+    "era": "The Ember Age",
+    "experience": 1,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Trade ledgers from the smaller coastal settlements rarely survive, but a handful of ash-glyph fragments mention Old Perrin, a modest fishing and trade landing south of the main Sunthrone cities, used mainly as a waypoint for duskTin shipments before they reached the larger ports. The wreck of the trade galley Ashenkeel, recovered nearby, is the main reason Old Perrin appears in the historical record at all; without it, chroniclers argue, the settlement would likely have gone entirely unmentioned."
+  },
+  {
+    "passage_id": "steel-10",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Notable Events",
+    "difficulty": "easy",
+    "text": "Before the Assembly's founding, three of its future member cities fought a decade-long conflict remembered as the Ashcoast Wars, ending only when a shared threat from raiders forced a truce that later chroniclers credit as the informal beginning of the alliance eventually formalized as the Steelbound Assembly. Wardens took office for generations afterward by swearing an oath specifically referencing the Ashcoast truce, even after most citizens could no longer name the original three cities involved."
+  },
+  {
+    "passage_id": "steel-11",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "By the time the Steelbound Assembly controlled the coast, the old fishing landing once known simply as Perrin had grown into a walled town, formally admitted as the Assembly's smallest member city and connected to the Longpath's coastal spur. Assembly records note the town's citizens successfully petitioned to keep its old name rather than adopt a formal Assembly-style title, arguing that the name predated the Assembly itself by longer than anyone could document."
+  },
+  {
+    "passage_id": "steel-12",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Every autumn, master smiths from across the Assembly's member cities gathered at the Forging Assay, a competition judging blade quality by a panel of Wardens' appointed assessors, with the winning smith granted the right to supply steel-marks used in the following year's minting. Smiths who won more than three Assays in a row were traditionally invited to train an apprentice from each member city free of charge, a custom the Assembly never formally required but which no champion smith ever publicly refused."
+  },
+  {
+    "passage_id": "steel-13",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "Assembly academies used a set of standardized geometric proofs, collectively called the Starsteel Canon, as the entry requirement for scholars wishing to specialize in engineering rather than law or medicine. Students who could not complete the full Canon within two years were typically redirected toward trade apprenticeships instead, a policy some critics argued excluded capable students who simply needed more time."
+  },
+  {
+    "passage_id": "steel-14",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Politics & Rulers",
+    "difficulty": "medium",
+    "text": "A closely contested Warden election ended with both candidates claiming victory until the Assembly's charter committee ruled that an improperly counted district's votes had to be recounted, ultimately reversing the initial result. The losing candidate accepted the recount's outcome publicly but privately lobbied for procedural changes to district vote-counting that were eventually adopted three years later."
+  },
+  {
+    "passage_id": "steel-15",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "When a coastal member city attempted to charge its own docking fees on top of standard Assembly tariffs, inland cities threatened to reroute Longpath shipments through a longer but fee-free route, forcing the coastal city to rescind the additional charge within a single trading season. The episode was later cited in Assembly debates whenever a member city proposed new local fees on shared trade routes."
+  },
+  {
+    "passage_id": "steel-16",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Daily Life & Society",
+    "difficulty": "medium",
+    "text": "A poor grain harvest across several inland Assembly cities led to temporary price controls on bread sold in public markets, a measure some bakers argued made their trade unprofitable for nearly a full season. The Assembly eventually compensated affected bakers partially from tariff revenue, a solution that satisfied few parties completely but avoided the bread riots some Wardens had privately feared."
+  },
+  {
+    "passage_id": "steel-17",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "Two rival philosophy schools within the same city ended decades of public rivalry through a formal debate hosted by neutral Assembly scholars, with the losing school's founder agreeing to fold his students into the winning school's academy. The merger was initially unpopular with students from the losing school, though within a generation most historical accounts described it as having strengthened the combined school's later influence."
+  },
+  {
+    "passage_id": "steel-18",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Technology & Craft",
+    "difficulty": "medium",
+    "text": "An Assembly engineer discovered that angling starstone concrete supports at a slight incline, rather than building them perfectly vertical, distributed weight more evenly across an aqueduct's full span, allowing longer unsupported sections than previous designs. The technique spread across Assembly cities within a decade, though several early adopters built their supports at too steep an angle before the ideal incline was properly standardized."
+  },
+  {
+    "passage_id": "steel-19",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Warfare",
+    "difficulty": "medium",
+    "text": "A dispute between two Assembly cities over control of a shared quarry supplying starstone for concrete nearly led to an armed standoff before a third city's Warden brokered a rotating-access agreement similar to those used for other contested resources. Shieldwall Legion units from both cities were stationed near the quarry for several years afterward, though no direct confrontation between them was ever recorded."
+  },
+  {
+    "passage_id": "steel-20",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Science & Belief",
+    "difficulty": "medium",
+    "text": "Physicians in several Assembly cities began cross-referencing the Starsteel Canon's geometric principles against human anatomy, producing more accurate models of bone structure than earlier scholastic descriptions, even though most physicians still explained illness primarily through humoral imbalance. The anatomical models were used mainly for teaching rather than treatment, since few practitioners were willing to abandon humoral theory outright."
+  },
+  {
+    "passage_id": "steel-21",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "A sudden oversupply of steel-marks minted in a single season, caused by an unusually productive quarry year, briefly destabilized prices in several Assembly markets until the treasury deliberately withdrew a portion of the new coinage from circulation. The episode prompted the Assembly to formally cap how much new coinage could be minted in any single season going forward."
+  },
+  {
+    "passage_id": "steel-22",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Notable Individuals",
+    "difficulty": "medium",
+    "text": "A relatively minor Assembly clerk who meticulously tracked grain shipments along the Longpath became, generations later, one of historians' few reliable sources for reconstructing actual trade volumes during a period when most political records from the same years were lost in a records-house fire. Later scholars noted this was not the first time an unglamorous administrative record outlasted the political achievements it merely documented."
+  },
+  {
+    "passage_id": "steel-23",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "An annual founding-day festival held across most Assembly cities commemorated the original truce between rival city-leagues, involving public readings of debate records from the Assembly's earliest years rather than religious rites. Newer member cities without any direct connection to the founding truce were sometimes criticized by older members for treating the festival as a general holiday rather than genuinely engaging with its history."
+  },
+  {
+    "passage_id": "steel-24",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Assembly tax registers from Perrin's early years as a member city are unusually inconsistent about the town's founding date, with three surviving copies disagreeing by nearly forty years on when it was formally admitted. Clerks reviewing the discrepancy generations later concluded the disagreement likely stemmed from confusion between Perrin's informal trading history and its formal Assembly membership, though no definitive resolution was ever recorded."
+  },
+  {
+    "passage_id": "steel-25",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Notable Individuals",
+    "difficulty": "hard",
+    "text": "A merchant family active during the Assembly's early expansion claimed descent from a lineage called Verrow, said to have brokered trade agreements even before organized coastal settlements existed, though Assembly clerks who reviewed the claim for a minor honorary appointment noted they could find no verifiable record older than the family's own oral history. The appointment was granted regardless, more for the family's demonstrated wealth than for the unverified ancestry."
+  },
+  {
+    "passage_id": "steel-26",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Culture & Religion",
+    "difficulty": "hard",
+    "text": "A minor Assembly philosophical text uses 'a sundering' to describe any moment when a previously unified school of thought splits into rival factions, a usage scholars believe developed independently of any specific historical event rather than referencing one directly. The term's generic use in Assembly academic writing has made it difficult for later historians to determine whether any particular reference to 'the sundering' in Assembly-era texts describes an actual event or simply this common rhetorical figure."
+  },
+  {
+    "passage_id": "steel-27",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Trade & Economy",
+    "difficulty": "hard",
+    "text": "Perrin's position as the Assembly's smallest member city meant its trade income was consistently the lowest of any member, yet Assembly tariff records show it was never seriously considered for removal from the Assembly, a leniency several larger cities privately resented but never formally challenged. Historians disagree on whether this reflects some undocumented strategic value the town held or simply administrative inertia."
+  },
+  {
+    "passage_id": "steel-28",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Politics & Rulers",
+    "difficulty": "hard",
+    "text": "During a contested Warden election, one candidate's opponents circulated unverified claims that his family's Verrow ancestry had been fabricated to lend legitimacy to an otherwise unremarkable trading background, a controversy that dominated the election's final weeks without ever being conclusively resolved either way. The candidate won regardless, and the ancestry dispute was rarely mentioned again once he took office."
+  },
+  {
+    "passage_id": "steel-29",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Science & Belief",
+    "difficulty": "hard",
+    "text": "Assembly star-charts occasionally note 'a sundering' in reference to any binary star pair that appeared, over years of observation, to visibly separate in the sky, a purely descriptive astronomical usage unrelated to any political or mythic meaning of the same word used elsewhere in Assembly writing. Later scholars cross-referencing Assembly texts with those of other regions have sometimes mistakenly assumed these astronomical references described the same event as unrelated political 'sunderings' recorded independently."
+  },
+  {
+    "passage_id": "steel-30",
+    "era": "The Steel Age",
+    "experience": 1,
+    "category": "Warfare",
+    "difficulty": "hard",
+    "text": "A brief and poorly documented conflict near Perrin, predating its formal Assembly membership, is referenced only in a single fragmentary tax dispute record that mentions goods being 'lost to trouble at Perrin' without further detail. Some historians have speculated this may describe the same unresolved incident referenced in earlier, pre-Assembly trade ledgers from the settlement, though the connection cannot be confirmed from surviving records."
+  },
+  {
+    "passage_id": "hallow-10",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Notable Events",
+    "difficulty": "easy",
+    "text": "A decade before the Charter of Greywick, a lesser lord named Bram Ashcombe refused a High Ward's tax demand and held his Holdfast through a six-month siege without ever formally rebelling, a stand later lords cited as proof that a Holdfast could outlast a High Ward's patience. Bram never joined the coalition that eventually forced the Charter, but the coalition's own petitions borrowed several arguments directly from letters he had written during the siege."
+  },
+  {
+    "passage_id": "hallow-11",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Old Perrin, a walled port town by the Hallow Age, sat within Tidebond territory and paid a share of its trade income to maintain the league's shared defense fleet. A Quiet House scribe recorded that the town's oldest surviving foundation stones were far older than anything else in the region, though the Quiet House's own records could not say how much older, only that Perrin had apparently been a landing of some kind for longer than any Hallow-Age chronicle could trace."
+  },
+  {
+    "passage_id": "hallow-12",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Every spring, the largest Handguilds from towns along the Tidebond coast sent representatives to the Greywick Fair's opening ceremony, where the presiding Hallowed Lord formally declared the temporary truce that suspended local tolls for the fair's full duration. Guilds that violated the truce by collecting tolls anyway were barred from the following year's fair entirely, a penalty severe enough that no guild was recorded breaking the truce more than once."
+  },
+  {
+    "passage_id": "hallow-13",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "Scholars at the Greywick Halls maintained a shared catalog of every manuscript the Quiet Houses had copied, cross-referencing which monastery held which text so that a scholar traveling to study a specific work would know exactly which Quiet House to visit. The catalog itself became almost as valuable as the manuscripts it tracked, and a Quiet House losing its copy of the catalog was considered a minor scholarly crisis."
+  },
+  {
+    "passage_id": "hallow-14",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Politics & Rulers",
+    "difficulty": "medium",
+    "text": "When a Hallowed Lord died without a clear heir, two distant cousins each claimed the title until the High Ward intervened, ultimately splitting the lord's territory between them rather than favoring either claim outright. Both cousins accepted the division publicly, though chroniclers note the eastern half proved considerably wealthier, a discrepancy the western cousin's descendants complained about for generations."
+  },
+  {
+    "passage_id": "hallow-15",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "When one Handguild attempted to charge a higher apprenticeship fee than neighboring towns, several prospective apprentices simply traveled to train under guilds in nearby towns instead, forcing the overpriced guild to lower its fee within a single season to remain competitive. The episode was later cited whenever a Handguild proposed raising its own fees beyond what neighboring guilds charged."
+  },
+  {
+    "passage_id": "hallow-16",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Daily Life & Society",
+    "difficulty": "medium",
+    "text": "A poor grain harvest across several Hallow territories forced many Hallowed Lords to reduce the portion of a bond-tiller's yield owed as tribute, a temporary concession some lords were reluctant to reverse even once harvests improved the following year. Bond-tillers in territories where the reduced tribute was kept longest were later noted by chroniclers as unusually loyal to their lord during subsequent conflicts."
+  },
+  {
+    "passage_id": "hallow-17",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "A marriage arranged between the children of two rival Hallowed Lords was intended to end a long-running boundary dispute, and though the dispute itself was formally resolved by the marriage contract, disagreements over which lord's Handguilds held trading rights along the former boundary continued for years afterward. Way-singers composed several ballads about the marriage, most of which omitted the ongoing trade disagreement entirely."
+  },
+  {
+    "passage_id": "hallow-18",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Technology & Craft",
+    "difficulty": "medium",
+    "text": "A miller along one of the Hallow territories' rivers discovered that angling a watermill's paddles slightly, rather than mounting them flat, let the mill turn efficiently even during lower water levels common in late summer. Neighboring mills adopted the angled-paddle design within a few years, though several early attempts were built at too steep an angle and had to be rebuilt before the technique was properly refined."
+  },
+  {
+    "passage_id": "hallow-19",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Warfare",
+    "difficulty": "medium",
+    "text": "A dispute between two Hallowed Lords over access to a shared stretch of river used for both milling and irrigation nearly escalated into open conflict before the High Ward brokered a schedule dividing the river's use by season. Wardknights from both territories patrolled the river for several years afterward, though no direct clash between them was ever recorded."
+  },
+  {
+    "passage_id": "hallow-20",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Science & Belief",
+    "difficulty": "medium",
+    "text": "Physicians trained at the Greywick Halls began cross-referencing older Quiet House manuscripts on herbal remedies against direct patient observation, producing more consistent dosing guidelines than earlier scattered folk practice, even though most physicians still explained illness primarily as an imbalance of bodily humors. The guidelines were adopted mainly by physicians trained directly at the Halls, since traveling healers in more remote territories often had no access to the updated texts."
+  },
+  {
+    "passage_id": "hallow-21",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "An unusually large harvest of Tidebond coastal salt one year briefly flooded inland markets and depressed prices badly enough that several Handguilds petitioned the nearest Hallowed Lord to temporarily cap how much salt any single merchant could bring to market at once. The cap was lifted after a single season once prices recovered, though a few guilds argued unsuccessfully for making it permanent."
+  },
+  {
+    "passage_id": "hallow-22",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Notable Individuals",
+    "difficulty": "medium",
+    "text": "A relatively minor Quiet House scribe who methodically recorded the annual truce declarations at the Greywick Fair became, generations later, one of historians' few reliable sources for dating which years the fair was held at all, since more prominent political records from several of those years were lost when a Holdfast's archive burned during an unrelated siege. Later scholars noted this was not the first time an unglamorous religious record outlasted the political history it merely happened to document."
+  },
+  {
+    "passage_id": "hallow-23",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "An annual founding-day observance held at several Greywick Halls commemorated the original Charter's sealing with public readings of the coalition lords' petitions rather than any religious rite. Halls founded after the Charter's sealing were sometimes criticized by older Halls for treating the observance as a general holiday rather than genuinely engaging with the coalition's history."
+  },
+  {
+    "passage_id": "hallow-24",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Tidebond records concerning Old Perrin's exact founding are inconsistent in the same way earlier Assembly-era registers reportedly were, with the earliest surviving Quiet House copy claiming the town predated the Tidebond entirely while a later copy of the same document omits the claim altogether. Scholars comparing the two copies cannot determine whether the omission reflects a correction or simply a scribe's error."
+  },
+  {
+    "passage_id": "hallow-25",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Notable Individuals",
+    "difficulty": "hard",
+    "text": "Genealogists working from Handguild apprenticeship records have argued that Isolde of Verrow's paternal line traced back to the same Verrow lineage claimed by an Assembly-era merchant family generations earlier, though the surviving Quiet House copies of both genealogies disagree on enough details that no scholar has been willing to treat the connection as established. Isolde herself, according to the one surviving letter that addresses the question at all, declined to comment on the matter either way."
+  },
+  {
+    "passage_id": "hallow-26",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Culture & Religion",
+    "difficulty": "hard",
+    "text": "A Quiet House commentary on an older philosophical text uses 'a sundering' to describe the moment a scholar's private doubts about doctrine become public enough to split a Hall's faculty into opposing camps, a usage the commentary's own margin notes describe as borrowed rather than original. Later scholars cataloging Hall disputes have sometimes struggled to determine whether a given reference to 'the sundering' describes an actual documented split or simply invokes the commentary's figure of speech."
+  },
+  {
+    "passage_id": "hallow-27",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "hard",
+    "text": "Old Perrin's status within the Tidebond mirrored its earlier reputation as an unusually small settlement whose trade income never justified its continued inclusion by strict accounting, yet Tidebond ledgers show no serious attempt to exclude it, a leniency several larger member towns privately questioned but never formally raised. Some Quiet House chroniclers speculated the town held some undocumented significance never recorded in surviving Tidebond charters."
+  },
+  {
+    "passage_id": "hallow-28",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Politics & Rulers",
+    "difficulty": "hard",
+    "text": "During a dispute over which lord should inherit a contested Handguild charter, one claimant's rivals circulated doubts that his family's Verrow ancestry, invoked to bolster his claim's legitimacy, had ever been properly verified by any Quiet House genealogist. The dispute was ultimately settled by the High Ward on grounds unrelated to ancestry, and the unresolved Verrow question was rarely raised again."
+  },
+  {
+    "passage_id": "hallow-29",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Science & Belief",
+    "difficulty": "hard",
+    "text": "Greywick Halls astronomical notes occasionally record 'a sundering' when describing a comet observed to visibly split into two fragments while crossing the sky, a purely descriptive usage scholars there maintained separately from any doctrinal or political meaning attached to the same word elsewhere in Hall writing. Quiet House copyists transcribing these notes alongside unrelated political commentary have on at least one occasion mixed the two usages together in a single manuscript, confusing later readers."
+  },
+  {
+    "passage_id": "hallow-30",
+    "era": "The Hallow Age",
+    "experience": 2,
+    "category": "Warfare",
+    "difficulty": "hard",
+    "text": "A brief, poorly documented clash near Old Perrin, predating its formal admission to the Tidebond, survives only in a single Quiet House marginal note describing goods 'lost to trouble at Perrin' during an otherwise unremarkable trading voyage. Some historians have speculated this may be the same unresolved incident referenced in far earlier, pre-Tidebond trade fragments from the settlement, though the phrasing's similarity to older records could equally be coincidence."
+  },
+  {
+    "passage_id": "tide-10",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Notable Events",
+    "difficulty": "easy",
+    "text": "Two councils very nearly went to open war over a disputed Sea Writ before a compromise, brokered by a retired captain neither council fully trusted, split the contested route's profits evenly rather than awarding it outright. The compromise, later called the Even Split, became the standard model councils reached for whenever a new route's ownership was disputed, even though the original agreement was never written into any formal charter."
+  },
+  {
+    "passage_id": "tide-11",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Captain Renata Solmere's crew departed for the Sunreach Isles from Old Perrin, by then a modest but well-regarded harbor town known less for its own trade than for how many ships safely embarked from and returned to it. Solmere's own logbook credits Perrin's harbor-master with insisting on a final hull inspection that caught a leak none of the crew had noticed, a detail later captains cite as the reason they still favor departing from Perrin over larger, busier ports."
+  },
+  {
+    "passage_id": "tide-12",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Port councils held an annual Sea Writ Exchange, where captains could trade licensed routes among themselves under council supervision rather than risk sailing an unlicensed crossing, with the council taking a small percentage of any route's declared value as a transfer fee. Captains who attempted to trade a Sea Writ without council notification had their licenses revoked for the following season, a penalty enforced strictly enough that unauthorized transfers became rare within a generation."
+  },
+  {
+    "passage_id": "tide-13",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "Wave-glass makers in the larger port cities formed a loose fellowship that met annually to compare lens-grinding techniques, gradually standardizing the instrument's calibration so that readings taken by different makers' wave-glasses could be trusted to agree with one another. Captains previously had to recalibrate their navigation each time they switched to an instrument from a different maker, a problem the fellowship's standard eventually eliminated."
+  },
+  {
+    "passage_id": "tide-14",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Politics & Rulers",
+    "difficulty": "medium",
+    "text": "A closely contested council seat election in one port city ended with both candidates claiming victory until an independent audit of merchant-family voting shares uncovered a miscounted family's holdings, reversing the result. The losing candidate accepted the audit's finding publicly but pushed for stricter share-verification rules that were adopted by several other port councils within the decade."
+  },
+  {
+    "passage_id": "tide-15",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "When one port city attempted to charge outbound ships an additional harbor fee beyond the standard Sea Writ transfer cost, several trading companies threatened to reroute their fleets through a rival port entirely, forcing the city to rescind the fee within a single trading season. The episode became a standard example cited whenever a port council proposed new fees on shared shipping lanes."
+  },
+  {
+    "passage_id": "tide-16",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Daily Life & Society",
+    "difficulty": "medium",
+    "text": "A poor fishing season along several stretches of coast forced port councils to temporarily subsidize grain imports for dockworker families who normally relied on fish trade for income. Some merchant councils argued the subsidy set an unaffordable precedent, though it was renewed the following year when the fishing season proved only marginally better."
+  },
+  {
+    "passage_id": "tide-17",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "Two rival groups of humanist scholars in the same port city, long divided over how directly classical Elder Age texts should be imitated versus merely studied, ended their public rivalry after a patron funded a joint publication combining both groups' translations. The merger produced uneven results according to later critics, though it ended decades of scholars publicly disparaging each other's translation choices."
+  },
+  {
+    "passage_id": "tide-18",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Technology & Craft",
+    "difficulty": "medium",
+    "text": "A shipwright discovered that reinforcing a tideship's hull with an additional diagonal timber brace, rather than relying solely on the standard frame, let the vessel withstand rougher open-ocean swells with noticeably less strain on the frame overall. The bracing technique spread across major shipyards within a decade, though a few early builders installed the brace at the wrong angle and had to refit their ships before the correct method was standardized."
+  },
+  {
+    "passage_id": "tide-19",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Warfare",
+    "difficulty": "medium",
+    "text": "A dispute between two port councils over a newly charted stretch of the Sunreach route nearly led to open conflict between their standing fleets before a neutral third council brokered a rotating-access agreement similar to those used for other contested routes. Ships from both fleets patrolled the disputed stretch for several years afterward, though no direct engagement between them was ever recorded."
+  },
+  {
+    "passage_id": "tide-20",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Science & Belief",
+    "difficulty": "medium",
+    "text": "Physicians in several port cities began cross-referencing Presswheel-printed anatomical texts against direct examination of patients, producing more accurate treatment guidelines for common shipboard injuries than earlier scattered ship-surgeon practice, even though most physicians still explained illness primarily through humoral imbalance. The guidelines spread quickly among port-city physicians thanks to Presswheel printing, though many independent ship-surgeons continued relying on older methods."
+  },
+  {
+    "passage_id": "tide-21",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "A single unusually successful Sunreach voyage returned with cargo valued at many times its expected worth, briefly destabilizing prices for the goods it carried across several port markets until merchant councils coordinated to release the cargo gradually rather than all at once. The episode prompted several trading companies to formally agree on staggered-release practices for any future exceptionally profitable voyage."
+  },
+  {
+    "passage_id": "tide-22",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Notable Individuals",
+    "difficulty": "medium",
+    "text": "A relatively minor harbor clerk who meticulously logged every Sea Writ issued in one port city became, generations later, one of historians' few reliable sources for reconstructing actual voyage frequency during a period when most council political records from the same years were lost in a warehouse fire. Later scholars noted this was not the first time an unglamorous administrative log outlasted the political records it merely happened to document."
+  },
+  {
+    "passage_id": "tide-23",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "An annual founding-day observance held in most port cities commemorated the first chartered trading company's founding with public readings of its original investor agreement rather than any religious rite. Newer port cities without a direct connection to that founding company were sometimes criticized by older ones for treating the observance as a general holiday rather than genuinely engaging with its history."
+  },
+  {
+    "passage_id": "tide-24",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Port council records concerning Old Perrin's founding remain as inconsistent as those from earlier ages, with the oldest surviving harbor register claiming the settlement predated any formal port charter while a later copy of the same register omits the claim. Scholars comparing the two copies cannot determine whether the omission reflects a correction or simply a clerk's error, a disagreement historians note echoes similar inconsistencies recorded about the town in earlier periods."
+  },
+  {
+    "passage_id": "tide-25",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Notable Individuals",
+    "difficulty": "hard",
+    "text": "A banking family prominent in several port cities claimed descent from the same Verrow lineage invoked by both an earlier merchant family and, disputedly, a Hallow-Age noblewoman, though the banking family's own investors reportedly cared more about its financial reputation than about verifying an ancestry no genealogist had ever conclusively settled. Presswheel-printed pamphlets debating the claim's validity circulated for a season before public interest simply moved on to other matters."
+  },
+  {
+    "passage_id": "tide-26",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Culture & Religion",
+    "difficulty": "hard",
+    "text": "A humanist pamphlet uses 'a sundering' to describe the moment a translation project's contributors publicly disagreed badly enough to publish two rival editions of the same classical text, a usage its own author's preface admits was borrowed from older, unrelated usage rather than original. Later scholars cataloging port-city publishing disputes have sometimes struggled to determine whether a given reference to 'the sundering' describes an actual documented split or simply invokes this by-then-common figure of speech."
+  },
+  {
+    "passage_id": "tide-27",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Trade & Economy",
+    "difficulty": "hard",
+    "text": "Old Perrin's harbor never handled cargo volumes comparable to the larger port cities, yet council shipping registers show no serious proposal to route Sea Writs around it entirely, a leniency some larger ports privately questioned but never formally challenged. Some historians have speculated the harbor held some undocumented navigational value never recorded in surviving council charters."
+  },
+  {
+    "passage_id": "tide-28",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Politics & Rulers",
+    "difficulty": "hard",
+    "text": "During a contested council seat election, one candidate's rivals circulated doubts that his family's claimed Verrow banking ancestry, invoked to bolster public confidence in his financial judgment, had ever been properly verified by any genealogist. The election was ultimately decided on unrelated grounds, and the unresolved Verrow question was rarely raised again."
+  },
+  {
+    "passage_id": "tide-29",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Science & Belief",
+    "difficulty": "hard",
+    "text": "Port-city astronomical notes occasionally record 'a sundering' when describing a comet observed to visibly split into two fragments while crossing the sky, a purely descriptive usage astronomers maintained separately from any political or cultural meaning attached to the same word elsewhere in port-city writing. Presswheel-printed almanacs compiling notes from multiple observatories have on at least one occasion mixed the two usages together, confusing later readers trying to reconstruct which event a given entry described."
+  },
+  {
+    "passage_id": "tide-30",
+    "era": "The Tide Age",
+    "experience": 2,
+    "category": "Warfare",
+    "difficulty": "hard",
+    "text": "A brief, poorly documented clash near Old Perrin's harbor, predating its formal inclusion in any port council's shipping registers, survives only in a single fragmentary customs note describing goods 'lost to trouble at Perrin' during an otherwise unremarkable voyage. Some historians have speculated this may be the same unresolved incident referenced in far earlier trade fragments from the settlement, though the phrasing's similarity to older records could equally be coincidence."
+  },
+  {
+    "passage_id": "cinder-01",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Politics & Rulers",
+    "difficulty": "easy",
+    "text": "Across the Forgelands, factory and mill owners known as Ironmasters governed jointly through the Ironmasters' Concord, a body that set common rules for wages, tariffs, and rail access between mill-towns. After a decade of strikes and unrest culminating in the Long Strike, the Concord reluctantly admitted elected worker representatives called Loom-delegates under the terms of the Reform Compact, a change several older Ironmasters publicly opposed for years afterward even as they continued attending Concord sessions."
+  },
+  {
+    "passage_id": "cinder-02",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Technology & Craft",
+    "difficulty": "easy",
+    "text": "The age took its name from the cinder-engine, a coal-fired steam engine whose refined pressure valves let it run mills, pumps, and rail locomotives far longer between failures than earlier designs. Clatterlooms, mechanical looms powered by the same engines, let a single mill produce more cloth in a day than a hundred hand-weavers previously could, though the noise that gave them their name was audible from outside the mill walls at all hours the engines ran."
+  },
+  {
+    "passage_id": "cinder-03",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Warfare",
+    "difficulty": "easy",
+    "text": "Competition over coal and iron veins feeding the Cinderline rail network occasionally escalated into the Ironvein Disputes, armed standoffs between rival Combines' hired Combine-guards rather than formal war between mill-towns. The Ironmasters' Concord eventually required any Combine operating a vein within a day's rail of another Combine's claim to register it publicly, a rule that reduced open standoffs considerably though disputes over unregistered veins continued in more remote territory."
+  },
+  {
+    "passage_id": "cinder-04",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Combines, jointly owned enterprises funded by many investors holding ledger-shares, financed the mills, rail lines, and mines that no single Ironmaster's fortune could have built alone. The Combine Exchange, where ledger-shares were bought and sold openly, let investors profit or lose without directly running a mill themselves, and a Combine's ledger-share price became a public measure of confidence in its management that Ironmasters watched as closely as their own production figures."
+  },
+  {
+    "passage_id": "cinder-05",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Culture & Religion",
+    "difficulty": "easy",
+    "text": "Traditional congregations, still led by hereditary clergy in most Forgelands towns, increasingly competed for public attention with the Enginewrights' Fellowship, a growing society of naturalists and inventors who held public demonstrations of new cinder-engine designs in the same town squares once reserved for religious festivals. Attendance at Fellowship demonstrations grew steadily among younger millhands, though most still attended traditional services as well rather than treating the two as exclusive."
+  },
+  {
+    "passage_id": "cinder-06",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Notable Individuals",
+    "difficulty": "easy",
+    "text": "Mira Kestrel, an engineer who began as a millhand before training under a retiring Ironmaster, is credited with the valve refinement that let cinder-engines run for weeks without failure, and later became the Concord's chief negotiator during the unrest that produced the Reform Compact. Loom-delegates in later Concord sessions frequently invoked Kestrel's own history as proof that a millhand's judgment belonged in the same room as an Ironmaster's."
+  },
+  {
+    "passage_id": "cinder-07",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Daily Life & Society",
+    "difficulty": "easy",
+    "text": "Millhands and their families typically lived in row-quarters, close-built terraced housing constructed by the Combine that employed them, with rent generally deducted directly from wages before a worker was paid. The Poor Compact, a Concord-funded relief system for the injured, elderly, or unemployed, was chronically underfunded relative to demand, and its uneven quality between mill-towns was a recurring grievance raised by Loom-delegates after the Reform Compact gave them a formal voice in Concord sessions."
+  },
+  {
+    "passage_id": "cinder-08",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "Physicians increasingly attributed the mill-towns' recurring fevers to foul air and crowded conditions rather than any imbalance of bodily humors, though the older humoral explanation was still taught in some smaller towns' medical schools alongside the newer view. The Enginewrights' Fellowship funded some of the first systematic surveys comparing illness rates between row-quarters with different drainage and ventilation, findings that slowly shifted medical opinion even where humoral theory was not yet formally abandoned."
+  },
+  {
+    "passage_id": "cinder-09",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Invented-only (no real mirror)",
+    "difficulty": "easy",
+    "text": "Millhands in several Forgelands towns describe the Cinderwake, a pattern of unexplained engine restarts said to occur in a mill shortly after a fatal accident there, as though the engine briefly ran itself in memory of the dead. No Combine has ever produced a mechanical explanation that satisfied skeptical millhands, and no two accounts agree on how long after an accident a Cinderwake is supposed to occur, though the story persists in nearly every mill-town with a fatal accident in living memory."
+  },
+  {
+    "passage_id": "cinder-10",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Notable Events",
+    "difficulty": "easy",
+    "text": "The Long Strike, a coordinated work stoppage across nearly a third of Forgelands mills, lasted almost four months before the Ironmasters' Concord agreed to the negotiations that eventually produced the Reform Compact. Several smaller Combines nearly collapsed during the stoppage and were quietly bought out by larger rivals once production resumed, a consolidation some historians argue mattered more to the Forgelands' long-term economy than the Reform Compact itself."
+  },
+  {
+    "passage_id": "cinder-11",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Old Perrin, once a modest harbor town, grew into a minor but strategically placed junction on the Cinderline once a spur line was built to connect its harbor to the inland coalfields. Combine surveyors reportedly found foundation stones beneath the planned rail yard far older than any structure the survey could otherwise account for, and rerouted the yard slightly rather than disturb them, a decision the surveying Combine never fully explained in its own records."
+  },
+  {
+    "passage_id": "cinder-12",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Every year, the Combine Exchange held an open ledger-day when smaller investors could trade shares directly with major Combines' own agents rather than through the usual brokers, a practice meant to keep ledger-share ownership from concentrating entirely among a handful of wealthy families. Brokers privately resented the ledger-day's lower fees, though no broker publicly opposed a practice popular with the Concord's Loom-delegates."
+  },
+  {
+    "passage_id": "cinder-13",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "The Enginewrights' Fellowship standardized the cinder-count, a measure of a steam engine's fuel efficiency, so that competing engine designs from different Combines could be compared on equal terms rather than relying on each maker's own claims. Engines failing to meet a minimum cinder-count were barred from Concord-funded rail contracts, a rule that pushed smaller Combines to either improve their designs quickly or exit the rail-engine market entirely."
+  },
+  {
+    "passage_id": "cinder-14",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Politics & Rulers",
+    "difficulty": "medium",
+    "text": "When an Ironmaster died without naming a successor, two adult children each claimed the family's seat on the Concord until the Concord's own charter committee ruled that the seat should pass to whichever heir held the larger share of the family's Combine stock, a formula adopted specifically to avoid future disputes of the same kind. Both children accepted the ruling publicly, though the losing sibling sold their remaining shares within the year and left Concord politics entirely."
+  },
+  {
+    "passage_id": "cinder-15",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "When one Combine attempted to charge other Combines an extra toll for using a rail spur it had built with partly public Concord funding, rival Combines successfully argued before the Concord that the spur's public funding obligated it to standard toll rates, forcing the fee's reversal within a single session. The dispute became a standard citation whenever a Combine proposed new tolls on any partly public infrastructure."
+  },
+  {
+    "passage_id": "cinder-16",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Daily Life & Society",
+    "difficulty": "medium",
+    "text": "An unusually cold winter combined with a temporary coal shortage forced several mill-towns to ration cinder-engine fuel between mills and row-quarter heating, a rationing scheme Loom-delegates argued favored mill production over resident welfare. The Concord eventually mandated a minimum heating allotment per row-quarter household during any future rationing, a rule credited to Loom-delegate pressure during the shortage."
+  },
+  {
+    "passage_id": "cinder-17",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "Two rival factions within the Enginewrights' Fellowship, long divided over whether the Fellowship should formally distance itself from traditional congregations or continue welcoming clergy as members, ended their dispute after a joint public demonstration co-hosted with a prominent local congregation drew record attendance. The reconciliation was informal rather than a written policy change, and individual Fellowship chapters in other towns continued the same argument independently for years afterward."
+  },
+  {
+    "passage_id": "cinder-18",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Technology & Craft",
+    "difficulty": "medium",
+    "text": "An engineer at a mid-sized mill discovered that lining a cinder-engine's boiler with a thin layer of a previously discarded mining residue reduced corrosion significantly, extending the boiler's working life well beyond what regular maintenance alone achieved. The technique spread slowly since the residue was only reliably available near certain mining Combines, and mills far from those Combines had to arrange costly shipping to use it at all."
+  },
+  {
+    "passage_id": "cinder-19",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Warfare",
+    "difficulty": "medium",
+    "text": "A dispute between two Combines over an unregistered coal vein discovered just outside an existing claim's boundary nearly escalated into an armed standoff before a neutral Combine, uninvolved in either claim, brokered a boundary survey both sides agreed to honor. Combine-guards from both companies patrolled the disputed boundary for several months afterward, though no direct clash between them was ever recorded."
+  },
+  {
+    "passage_id": "cinder-20",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Science & Belief",
+    "difficulty": "medium",
+    "text": "Physicians working with the Enginewrights' Fellowship began systematically comparing recovery rates between row-quarters with different sanitation practices, producing the first widely circulated guidelines linking specific sanitation measures to lower fever rates, even though a formal mechanism for how dirty conditions caused illness was not yet agreed upon. The guidelines were adopted unevenly, fastest in mill-towns whose Combines saw a direct benefit in healthier, more reliable millhands."
+  },
+  {
+    "passage_id": "cinder-21",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "An unusually productive season at several coal Combines briefly flooded the fuel market and depressed cinder-count-standardized coal prices badly enough that smaller Combines petitioned the Concord to temporarily limit how much coal any single Combine could sell in a session. The limit was allowed to lapse after one season once prices recovered, though it was reinstated briefly during at least one later oversupply."
+  },
+  {
+    "passage_id": "cinder-22",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Notable Individuals",
+    "difficulty": "medium",
+    "text": "A relatively minor Concord clerk who meticulously logged ledger-share prices during the Long Strike became, generations later, one of historians' few reliable sources for reconstructing which Combines nearly collapsed during the stoppage, since most Combines' own internal records from that period were later destroyed in unrelated warehouse fires. Later scholars noted this was not the first time an unglamorous clerical record outlasted the business history it merely happened to document."
+  },
+  {
+    "passage_id": "cinder-23",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "An annual observance held in most Forgelands mill-towns commemorated the signing of the Reform Compact with a public reading of its original terms rather than any religious rite, drawing both traditional congregations and Enginewrights' Fellowship chapters to the same town squares for the day. Mill-towns founded after the Reform Compact was signed were sometimes criticized by older towns for treating the observance as a general holiday rather than genuinely engaging with the unrest that produced it."
+  },
+  {
+    "passage_id": "cinder-24",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Combine survey records concerning Old Perrin's exact founding remain as inconsistent as records from earlier ages reportedly were, with the original rail-yard survey claiming the settlement predated any formal charter while a later Concord land registry omits the claim entirely. Registrars comparing the two documents cannot determine whether the omission reflects a correction or simply a clerical oversight, a disagreement historians note echoes similar inconsistencies recorded about the town in far earlier periods."
+  },
+  {
+    "passage_id": "cinder-25",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Notable Individuals",
+    "difficulty": "hard",
+    "text": "A prominent Combine-founding family claimed descent from a lineage called Verrow, said to have brokered early coal-rights agreements before the Concord's founding, though Concord registrars who reviewed the claim for a minor honorary Concord seat could find no verifiable record older than the family's own private papers. The seat was granted regardless, more for the family's Combine holdings than for the unverified ancestry."
+  },
+  {
+    "passage_id": "cinder-26",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Culture & Religion",
+    "difficulty": "hard",
+    "text": "A minor Enginewrights' Fellowship pamphlet uses 'a sundering' to describe the moment a chapter's members publicly disagree badly enough to split into two rival chapters meeting separately in the same town, a usage the pamphlet's own footnote admits was borrowed from older, unrelated usage rather than original. Later historians cataloging Fellowship chapter splits have sometimes struggled to determine whether a given reference to 'the sundering' describes an actual documented split or simply invokes this by-then-common figure of speech."
+  },
+  {
+    "passage_id": "cinder-27",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "hard",
+    "text": "Old Perrin's rail-yard never handled freight volumes comparable to the larger Cinderline junctions, yet Concord infrastructure records show no serious proposal to route coal shipments around it entirely, a leniency some larger junction towns privately questioned but never formally raised. Some Concord clerks speculated the junction held some undocumented strategic value never recorded in surviving Concord charters."
+  },
+  {
+    "passage_id": "cinder-28",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Politics & Rulers",
+    "difficulty": "hard",
+    "text": "During a dispute over an inherited Concord seat, one claimant's rivals circulated doubts that his family's Verrow ancestry, invoked to bolster the legitimacy of his Combine's founding claim, had ever been properly verified by any independent registrar. The dispute was ultimately settled by the Concord's charter committee on grounds unrelated to ancestry, and the unresolved Verrow question was rarely raised again."
+  },
+  {
+    "passage_id": "cinder-29",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Science & Belief",
+    "difficulty": "hard",
+    "text": "Enginewrights' Fellowship engineering notes occasionally record 'a sundering' when describing a boiler seam that visibly splits under pressure during testing, a purely technical usage maintained separately from any social or cultural meaning attached to the same word elsewhere in Fellowship writing. Fellowship clerks compiling notes from multiple mills have on at least one occasion mixed the two usages together in a single report, confusing later engineers trying to reconstruct what had actually failed."
+  },
+  {
+    "passage_id": "cinder-30",
+    "era": "The Cinder Age",
+    "experience": 3,
+    "category": "Warfare",
+    "difficulty": "hard",
+    "text": "A brief, poorly documented clash near Old Perrin's rail yard, predating the spur line's formal registration with the Concord, survives only in a single fragmentary freight ledger describing goods 'lost to trouble at Perrin' during an otherwise unremarkable shipment. Some historians have speculated this may be the same unresolved incident referenced in far earlier trade fragments from the settlement, though the phrasing's similarity to older records could equally be coincidence."
+  },
+  {
+    "passage_id": "lumen-01",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Politics & Rulers",
+    "difficulty": "easy",
+    "text": "Cities and regions connected to the Lattice organized themselves as Nodes, each sending delegates to the Accord Council, a body that set shared standards for network access, data routing, and dispute resolution between Nodes rather than governing any single Node's internal affairs. When a dispute over routing priority between two large Nodes threatened to fragment the network entirely, the Accord Council adopted the Lattice Accord, a binding charter every member Node was required to ratify before its Beacons could rejoin the shared network."
+  },
+  {
+    "passage_id": "lumen-02",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Technology & Craft",
+    "difficulty": "easy",
+    "text": "The glass-slate, a thin personal device linked continuously to the Lattice, replaced most earlier forms of private record-keeping and communication within a single generation of its introduction. Beacons, large facilities housing the physical machinery that stored and routed Lattice traffic, were built near reliable power sources, and Indexers, software systems that searched and summarized the Lattice's accumulated knowledge, became the primary way most people retrieved information rather than consulting any single archive directly."
+  },
+  {
+    "passage_id": "lumen-03",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Warfare",
+    "difficulty": "easy",
+    "text": "Conflict in the Lumen Age rarely took the form of open combat, occurring instead as Lattice Breaches, unauthorized intrusions into a Node's Beacons meant to steal data, disrupt routing, or expose a rival Node's records publicly. The Accord Council eventually required every member Node to fund a minimum level of Beacon defense, a requirement wealthier Nodes met easily but which strained smaller Nodes' budgets considerably."
+  },
+  {
+    "passage_id": "lumen-04",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Ledger-nets, distributed digital marketplaces that recorded every transaction across the Lattice without relying on any single central authority, gradually displaced older paper-ledger trading systems inherited from the Cinder Age. The Vantage Combine, founded by descendants of the engineer credited with the first cross-Node Lattice link, grew into the largest single operator of Ledger-net infrastructure, a dominance that drew repeated Accord Council scrutiny over the decades."
+  },
+  {
+    "passage_id": "lumen-05",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Culture & Religion",
+    "difficulty": "easy",
+    "text": "Echo-boards, public Lattice spaces where anyone could post text, images, or recordings for others to view and respond to, became the primary forum for public debate, largely displacing the town squares and printed pamphlets earlier ages had relied on. Popular Echo-board threads could reach far more people far faster than any earlier medium, though the same speed made poorly sourced claims spread just as quickly as carefully verified ones, a tension Indexer developers spent considerable effort trying to address."
+  },
+  {
+    "passage_id": "lumen-06",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Notable Individuals",
+    "difficulty": "easy",
+    "text": "Dorin Vantage, a Node engineer working largely alone on unofficial time, built the first stable link connecting two previously separate regional networks, a connection that became the technical basis for the unified Lattice within a decade. Vantage never sought a formal Accord Council position, but the Combine later built by their descendants carried the family name specifically to invoke that original achievement."
+  },
+  {
+    "passage_id": "lumen-07",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Daily Life & Society",
+    "difficulty": "easy",
+    "text": "Most residents of Lattice-connected Nodes carried a glass-slate from childhood onward, a group later social commentators termed the Native generation, in contrast to the Static generation who had adopted the Lattice as adults and often relied on Native relatives or younger colleagues to navigate newer Indexer features. The generational gap in comfort with the Lattice became a recurring theme in Echo-board discussions, though Static-generation residents' actual usage rates converged with Native residents' within about a decade of the Lattice's introduction to any given Node."
+  },
+  {
+    "passage_id": "lumen-08",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "Physicians across most Nodes used Indexer-assisted diagnosis, cross-referencing a patient's symptoms against records from millions of prior cases rather than relying solely on individual training and memory, a shift that finally displaced the last remnants of humoral explanations of illness inherited from far earlier ages. A vocal minority of physicians in more remote Nodes argued Indexer-assisted diagnosis made physicians overly dependent on systems few of them fully understood, a debate that remained unresolved even as adoption continued to spread."
+  },
+  {
+    "passage_id": "lumen-09",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Invented-only (no real mirror)",
+    "difficulty": "easy",
+    "text": "Lattice engineers in several Nodes report the Ghost Signal, a faint repeating transmission detected on an unused routing channel that matches no known Beacon's registered signature, said by some to recur at irregular intervals across decades. No Node's Accord-registered engineers have ever traced the signal to its source, accounts disagree on its exact pattern, and several senior engineers privately consider the whole phenomenon an unverified rumor passed between shifts rather than a genuine anomaly."
+  },
+  {
+    "passage_id": "lumen-10",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Notable Events",
+    "difficulty": "easy",
+    "text": "The Great Severance, a routing failure that cut an entire region's Nodes off from the wider Lattice for nearly three weeks, remains the most disruptive network failure the Accord Council has recorded, forcing affected Nodes to briefly revive older paper-ledger and courier systems many residents had never used. The Lattice Accord was substantially revised after the Severance to require redundant routing paths between every major Node, a requirement credited with preventing any comparably long outage since."
+  },
+  {
+    "passage_id": "lumen-11",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Old Perrin, long a minor rail junction, became host to a small regional Beacon once Lattice infrastructure reached the area, chosen in part for a stable power connection inherited from its earlier rail-era industry. Beacon engineers surveying the site for foundation work reportedly found stonework far older than any structure the survey could otherwise account for, and rerouted the foundation slightly rather than disturb it, a decision the engineering firm never fully explained in its own public filings."
+  },
+  {
+    "passage_id": "lumen-12",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "easy",
+    "text": "Once a year, the largest Ledger-net operators hold an open trading day when individual users can transact directly on the network's base layer without the usual intermediary fees, a practice originally meant to keep transaction costs from concentrating entirely in a handful of large operators' hands. Smaller operators have occasionally complained the open trading day mainly benefits Nodes already comfortable navigating Ledger-net interfaces directly, though no operator has publicly opposed continuing the practice."
+  },
+  {
+    "passage_id": "lumen-13",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Science & Belief",
+    "difficulty": "easy",
+    "text": "The Accord Council standardized a public accuracy rating for Indexer systems, requiring operators to disclose how often a given Indexer's summaries were later corrected or retracted, so that Nodes relying on Indexer-assisted diagnosis or research could compare systems on consistent terms rather than trusting each operator's own marketing claims. Indexers falling below a minimum accuracy rating were barred from public-health-related Accord contracts, a rule that pushed smaller Indexer operators to either improve quickly or exit that market entirely."
+  },
+  {
+    "passage_id": "lumen-14",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Politics & Rulers",
+    "difficulty": "medium",
+    "text": "When a Node's founding delegate stepped down from the Accord Council without naming a successor, two senior engineers each claimed the seat until the Council's own charter committee ruled that the seat should pass to whichever candidate held the Node's formal engineering-authority credential, a formula adopted specifically to avoid similar disputes in the future. Both candidates accepted the ruling publicly, though the losing engineer left Node politics entirely within the year."
+  },
+  {
+    "passage_id": "lumen-15",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "When one Ledger-net operator attempted to charge an additional routing fee on transactions passing through its infrastructure beyond the standard Accord-set rate, several large Nodes threatened to reroute their traffic through a rival operator entirely, forcing the fee's reversal within a single trading cycle. The episode became a standard citation whenever an operator proposed new fees on shared Lattice infrastructure."
+  },
+  {
+    "passage_id": "lumen-16",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Daily Life & Society",
+    "difficulty": "medium",
+    "text": "An extended Beacon capacity shortage during a period of unusually high Lattice demand forced several Nodes to ration glass-slate bandwidth between essential services and personal use, a rationing scheme Native-generation residents argued disproportionately affected those most dependent on the Lattice for work. The Accord Council eventually mandated a minimum personal-use bandwidth allotment during any future shortage, a rule credited to sustained Echo-board pressure during the rationing period."
+  },
+  {
+    "passage_id": "lumen-17",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "Two rival Echo-board communities, long divided over whether Indexer-generated summaries should be trusted as primary sources or treated only as a starting point for further verification, ended their public dispute after a joint fact-checking project both communities credited with correcting a widely circulated error neither had caught alone. The reconciliation was informal, and individual Echo-boards in other Nodes continued the same argument independently for years afterward."
+  },
+  {
+    "passage_id": "lumen-18",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Technology & Craft",
+    "difficulty": "medium",
+    "text": "An engineer at a mid-sized Beacon discovered that restructuring how routing requests were queued during peak demand reduced Lattice lag noticeably without requiring any additional hardware, a change that spread to other Beacons within a few years once the technique was documented and shared through Accord-sponsored engineering channels. A handful of early adopters implemented the restructuring incorrectly and had to revert it before the corrected version became standard practice."
+  },
+  {
+    "passage_id": "lumen-19",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Warfare",
+    "difficulty": "medium",
+    "text": "A dispute between two Nodes over which held routing priority for a newly established Lattice link nearly escalated into a sustained Breach campaign before a neutral Node, uninvolved in either claim, brokered a shared-priority arrangement both sides agreed to honor. Beacon defense teams from both Nodes monitored the disputed link for several months afterward, though no confirmed Breach between them was ever recorded."
+  },
+  {
+    "passage_id": "lumen-20",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Science & Belief",
+    "difficulty": "medium",
+    "text": "Physicians working with several Indexer developers began systematically comparing diagnostic accuracy between Nodes with different levels of Indexer-assisted diagnosis adoption, producing the first widely circulated data linking earlier adoption to measurably better outcomes for several common conditions, even though the exact mechanism by which Indexer assistance improved outcomes was debated among physicians who used it. Adoption spread fastest in Nodes whose local Accord delegates saw a direct benefit in demonstrably better health outcomes."
+  },
+  {
+    "passage_id": "lumen-21",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "medium",
+    "text": "An unusually large single transaction briefly flooded a regional Ledger-net and destabilized prices for the goods it involved until several Nodes' operators coordinated to process the transaction's settlement gradually rather than all at once. The episode prompted several Ledger-net operators to formally agree on staggered-settlement practices for any future exceptionally large transaction."
+  },
+  {
+    "passage_id": "lumen-22",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Notable Individuals",
+    "difficulty": "medium",
+    "text": "A relatively minor Beacon technician who meticulously logged routing anomalies during the Great Severance became, years later, one of historians' few reliable sources for reconstructing exactly how the failure spread between Nodes, since several affected Nodes' own official incident reports were later found to have been incomplete. Later engineers noted this was not the first time an unglamorous technical log outlasted the official record it merely happened to supplement."
+  },
+  {
+    "passage_id": "lumen-23",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Culture & Religion",
+    "difficulty": "medium",
+    "text": "An annual observance held across most Lattice-connected Nodes commemorated the Lattice Accord's original ratification with a public reading of its founding terms on Echo-boards rather than any traditional rite. Nodes that joined the Lattice well after the Accord's original ratification were sometimes criticized by founding Nodes for treating the observance as a general holiday rather than genuinely engaging with the disputes the Accord was written to resolve."
+  },
+  {
+    "passage_id": "lumen-24",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Enduring Places",
+    "difficulty": "hard",
+    "text": "Beacon registry records concerning Old Perrin's exact founding remain as inconsistent as records from far earlier ages, with the original site survey claiming the settlement predated any formal charter while a later Accord land registry omits the claim entirely. Registrars comparing the two documents cannot determine whether the omission reflects a correction or simply a data-entry oversight, a disagreement historians note echoes similar inconsistencies recorded about the town across multiple earlier ages."
+  },
+  {
+    "passage_id": "lumen-25",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Notable Individuals",
+    "difficulty": "hard",
+    "text": "A prominent Ledger-net operator's founding family claimed descent from a lineage called Verrow, said to have brokered early industrial coal-rights agreements generations before the Lattice existed, though Accord registrars who reviewed the claim for a minor honorary Council recognition could find no verifiable record older than the family's own private archives. The recognition was granted regardless, more for the family's Ledger-net holdings than for the unverified ancestry."
+  },
+  {
+    "passage_id": "lumen-26",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Culture & Religion",
+    "difficulty": "hard",
+    "text": "A minor Echo-board post uses 'a sundering' to describe the moment a large online community publicly disagrees badly enough to split into two rival Echo-boards covering the same topic, a usage its own author later admitted was borrowed from older, unrelated usage rather than original. Later researchers cataloging Echo-board community splits have sometimes struggled to determine whether a given reference to 'the sundering' describes an actual documented split or simply invokes this by-then-common figure of speech."
+  },
+  {
+    "passage_id": "lumen-27",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Trade & Economy",
+    "difficulty": "hard",
+    "text": "Old Perrin's Beacon never handled traffic volumes comparable to the larger regional hubs, yet Accord infrastructure records show no serious proposal to route Lattice traffic around it entirely, a leniency some larger hub Nodes privately questioned but never formally raised. Some Accord registrars speculated the Beacon held some undocumented strategic value never recorded in surviving Accord filings."
+  },
+  {
+    "passage_id": "lumen-28",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Politics & Rulers",
+    "difficulty": "hard",
+    "text": "During a dispute over an inherited Accord Council seat, one candidate's rivals circulated doubts that his family's claimed Verrow ancestry, invoked to bolster the legitimacy of his family's Ledger-net holdings, had ever been properly verified by any independent registrar. The dispute was ultimately settled by the Council's charter committee on grounds unrelated to ancestry, and the unresolved Verrow question was rarely raised again."
+  },
+  {
+    "passage_id": "lumen-29",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Science & Belief",
+    "difficulty": "hard",
+    "text": "Beacon engineering logs occasionally record 'a sundering' when describing a fiber routing bundle that visibly separates under physical stress during inspection, a purely technical usage maintained separately from any social or cultural meaning attached to the same word elsewhere in engineering writing. Engineers compiling logs from multiple Beacons have on at least one occasion mixed the two usages together in a single report, confusing later technicians trying to reconstruct what had actually failed."
+  },
+  {
+    "passage_id": "lumen-30",
+    "era": "The Lumen Age",
+    "experience": 3,
+    "category": "Warfare",
+    "difficulty": "hard",
+    "text": "A brief, poorly documented Breach attempt against Old Perrin's Beacon, predating its formal inclusion in the regional Accord defense registry, survives only in a single fragmentary maintenance log describing service 'lost to trouble at Perrin' during an otherwise unremarkable outage. Some historians have speculated this may be the same unresolved incident referenced in far earlier trade fragments from the settlement, though the phrasing's similarity to older records could equally be coincidence."
+  }
+]
